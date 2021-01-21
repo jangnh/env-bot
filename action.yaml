@@ -1,4 +1,4 @@
-name: 'Check the environment file not exist APP_DEBUG=true'
+name: 'Check the environment file not exist standard'
 description: 'Check the environment file not exist APP_DEBUG=true, prevent developer make mistake in production env'
 branding:
   icon: 'alert-triangle'

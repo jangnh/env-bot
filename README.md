@@ -5,5 +5,6 @@ Check the environment file not exist APP_DEBUG=true, prevent developer make mist
 ## Example usage
 
 ```
-uses: actions/env-bot@v1
+- name: Check the environment file not exist APP_DEBUG=true
+  uses: giangnh92/env-bot@v1.1
 ```
