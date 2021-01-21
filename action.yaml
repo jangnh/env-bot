@@ -1,5 +1,8 @@
 name: 'Check the environment file not exist APP_DEBUG=true'
 description: 'Check the environment file not exist APP_DEBUG=true, prevent developer make mistake in production env'
+branding:
+  icon: 'alert-triangle'
+  color: 'red'
 runs:
   using: 'node12'
   main: 'index.js'
