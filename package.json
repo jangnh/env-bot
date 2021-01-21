@@ -1,0 +1,13 @@
+{
+    "name": "env-bot",
+    "version": "1.0.0",
+    "author": {
+        "email": "hngnaig@icloud.com",
+        "name": "giangnh92"
+    },
+    "dependencies": {
+        "@actions/core": "*",
+        "@actions/github": "*",
+        "node-fetch": "*"
+    }
+}
